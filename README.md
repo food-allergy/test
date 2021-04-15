@@ -2,6 +2,6 @@
 
 Some text here
 
-# Subheading
+## Subheading
 
 More text here
