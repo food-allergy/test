@@ -1,4 +1,4 @@
-# (just a) test
+# test
 # food allergy app
 
 Some text here
