@@ -5,4 +5,4 @@ Some text here
 
 ## Subheading
 
-More text here
+More text here.
