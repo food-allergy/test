@@ -1,7 +1,7 @@
 # test
 # food allergy app
 
-Some text here
+Some text here.
 
 ## Subheading
 
